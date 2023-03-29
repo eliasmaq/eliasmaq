@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elías Mesones</h1>
-<h3 align="center">A passionate fullstack developer from Perú</h3>
+<h3 align="center">A fullstack developer from Perú, always looking for improvement in my skills and new challenges</h3>
 
 - 🌱 I’m currently learning **Python, Node JS**
 
